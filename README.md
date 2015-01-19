@@ -1,4 +1,6 @@
 droolstest
 ==========
 
-Test out the drools component
+Test out the drools component.
+
+Updated.
